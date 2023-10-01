@@ -1,0 +1,12 @@
+[submodule "nxp/opensource/driver"]
+	path = nxp/opensource/driver
+	url = https://github.com/fuxi-dev/vendor_nxp_opensource_driver
+[submodule "qcom/opensource/audio-kernel-ar"]
+	path = qcom/opensource/audio-kernel-ar
+	url = https://github.com/fuxi-dev/vendor_qcom_opensource_audio-kernel-ar
+[submodule "qcom/opensource/display-drivers"]
+	path = qcom/opensource/display-drivers
+	url = https://github.com/fuxi-dev/vendor_qcom_opensource_display-drivers
+[submodule "qcom/opensource/camera-kernel"]
+	path = qcom/opensource/camera-kernel
+	url = https://github.com/fuxi-dev/vendor_qcom_opensource_camera-kernel
