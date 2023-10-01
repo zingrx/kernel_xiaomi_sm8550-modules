@@ -1,7 +1,7 @@
 # kernel_xiaomi_sm8550-modules
 Clone this repo in the proper path
 ```
-git clone https://github.com/zingrx/kernel_xiaomi_sm8550-modules kernel/xiaomi/sm8550-modules
+git clone  --recurse-submodules  https://github.com/zingrx/kernel_xiaomi_sm8550-modules kernel/xiaomi/sm8550-modules
 ```
 Then pick up this commit
 ```
